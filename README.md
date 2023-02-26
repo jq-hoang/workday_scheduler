@@ -1,6 +1,6 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
-## [Deployed Application](https://link-url-here.org)
+## [Deployed Application](https://jq-hoang.github.io/workday_scheduler/)
 ## [Github Repo](https://github.com/jq-hoang/workday_scheduler)
 
 
